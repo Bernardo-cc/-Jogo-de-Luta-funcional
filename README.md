@@ -24,9 +24,7 @@ Durante a batalha, os jogadores podem atacar, causar dano e acompanhar a evoluç
 
 ## ▶️ Como executar
 
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` no navegador.
-3. Clique nos botões de ataque para jogar.
+1. Copie e colhe este link no navegador: https://bernardo-cc.github.io/-Jogo-de-Luta-funcional/
 
 ## 🎯 Objetivo
 
